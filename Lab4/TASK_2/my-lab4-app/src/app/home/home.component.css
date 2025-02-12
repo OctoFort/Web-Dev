@@ -28,8 +28,11 @@
 }
 
 .results {
+  margin: auto;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  max-width: 1200px;
+  flex-wrap: wrap;
 }
