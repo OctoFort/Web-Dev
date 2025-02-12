@@ -1,0 +1,35 @@
+.search-product {
+  padding: 0.5em 6em 0.5em 6em;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+}
+
+.search-button {
+  all: unset;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  width: 60px;
+  background-color: #f24634;
+  border-radius: 3px;
+}
+
+.search-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  width: 300px;
+}
+
+.results {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
