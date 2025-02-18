@@ -1,0 +1,11 @@
+.checkbox-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  width: 130px;
+  margin: 5px auto;
+}
+
+.checkbox-label {
+  font-size: 20px;
+}

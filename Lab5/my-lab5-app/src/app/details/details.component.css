@@ -1,0 +1,94 @@
+.details {
+  margin: 50px auto;
+  width: 80%;
+  height: 400px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+.details-img {
+  object-fit: contain;
+  width: 40%;
+  height: 300px;
+  padding: 50px;
+  border: 1px solid #ddd;
+}
+
+.details-name {
+  padding: 10px 20px 20px 20px;
+  font-size: 20px;
+  height: 100px;
+  display: flex;
+  margin: 0;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.details-right-side {
+  height: 400px;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ddd;
+}
+
+.details-price {
+  all: unset;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.details-rating {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.details-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin:auto;
+  gap: 20px;
+}
+
+.details-button-img {
+  object-fit: contain;
+  width: 100px;
+}
+
+.details-button {
+  all: unset;
+  border: 1px solid #ddd;
+}
+
+.details-button-whatsapp {
+  object-fit: contain;
+  height: 30px;
+}
+
+.details-description {
+  margin: 50px auto;
+  display: flex;
+  align-items: center;
+  width: 80%;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.details-description-text {
+  font-size: 40px;
+}
