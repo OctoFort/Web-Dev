@@ -5,39 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc1565b1-dac3-4e01-8c17-e69de41e9b2c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/.vscode/extensions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/about/about.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/about/about.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/album-details/album-details.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/album-details/album-details.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/album-photos/album-photos.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/album-photos/album-photos.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/albums/albums.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/albums/albums.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/app.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/app.routes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/home/home.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/home/home.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/interfaces/album.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/interfaces/photo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/app/services/albums.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6/my-lab6-project/tsconfig.spec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,6 +105,7 @@
       <workItem from="1740904241806" duration="840000" />
       <workItem from="1740910299799" duration="520000" />
       <workItem from="1740910836576" duration="814000" />
+      <workItem from="1741856768868" duration="1257000" />
     </task>
     <servers />
   </component>
