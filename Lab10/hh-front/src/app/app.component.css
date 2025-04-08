@@ -1,0 +1,19 @@
+
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: rgb(249 249 249);
+
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+li {
+  font-size: 30px;
+}
